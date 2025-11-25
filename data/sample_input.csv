@@ -1,0 +1,6 @@
+image_path,field_id,date,location,notes
+images/cabbage_001.jpg,1,2024-11-01,Field A,Healthy specimen
+images/cabbage_002.jpg,1,2024-11-01,Field A,Possible disease
+images/cabbage_003.jpg,2,2024-11-02,Field B,Ready for harvest
+images/cabbage_004.jpg,2,2024-11-02,Field B,Early growth stage
+images/cabbage_005.jpg,3,2024-11-03,Field C,Quality check needed
